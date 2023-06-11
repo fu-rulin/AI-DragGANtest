@@ -14,3 +14,7 @@
 * 在所有前置動作完成後，就可以直接跑執行程式
 *跑完後點擊上方 "Running on public URL" 的連結即可使用
 #影片展示
+
+
+https://github.com/fu-rulin/AI-DragGANtest/assets/130811764/eb7363df-4c77-4e07-830f-c2d5e2e14bb9
+
